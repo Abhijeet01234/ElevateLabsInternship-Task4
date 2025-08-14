@@ -20,7 +20,4 @@ A lightweight, console-based notes application built with Java that demonstrates
 ## How to Run
 
 ### Requirements
-- Java 21 JDK ([Download here](https://www.oracle.com/java/technologies/downloads/))
-- **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/java-notes-app.git
+- Java 17+ JDK ([Download here](https://www.oracle.com/java/technologies/downloads/))
